@@ -1,0 +1,15 @@
+.container {
+    border: 2px black solid;
+    width: 80%;
+    margin-left: 10rem;
+   }
+   
+#risultato {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 1rem;
+   }
+   div>p {
+    text-align: center;
+    margin-top: 2rem;
+   }
